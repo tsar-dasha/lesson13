@@ -4,7 +4,7 @@
     "project": "",
     "environment": "",
     "comment": "",
-    "reportLink": "",
+    "reportLink": "https://jenkins.autotests.cloud/job/Daria%20Tsareva/ws/allure-report/widgets/",
     "language": "ru",
     "allureFolder": "allure-report",
     "enableChart": false,
