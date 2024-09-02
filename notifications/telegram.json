@@ -1,0 +1,16 @@
+{
+  "base": {
+    "project": "some project",
+    "environment": "some env",
+    "comment": "some comment",
+    "reportLink": "",
+    "language": "en",
+    "allureFolder": "https://jenkins.autotests.cloud/job/Daria%20Tsareva/ws/allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "7542906175:AAHM1OeuRNxiSmdrCadvQkQUjgyjmXUe8hY",
+    "chat": "-4512882736",
+    "replyTo": ""
+  }
+}
